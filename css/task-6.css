@@ -1,0 +1,7 @@
+.divStyleBox{
+    /* display: flex;
+    justify-self: unset; */
+    background-color: black;
+    width: 400px;
+    height: 400px;
+}
